@@ -30,6 +30,5 @@
 #### :pencil2: Study Algorithm
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=horolrolro9)](https://solved.ac/horolrolro9)
 
-#### :computer: My Projects
   
 </div>
