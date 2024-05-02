@@ -50,7 +50,7 @@
   
 ### 💻 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosae0905&layout=compact&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=35%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosae0905&layout=compact&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=50%>
 <img src="https://github-readme-stats.vercel.app/api?username=Hosae0905&show_icons=true&theme=radical&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true">
 
 
